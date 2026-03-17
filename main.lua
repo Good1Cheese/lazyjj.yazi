@@ -1,5 +1,4 @@
 return {
-
 	entry = function()
 		---@diagnostic disable-next-line: undefined-field
 		local output = Command("jj"):arg("status"):stderr(Command.PIPED):output()
