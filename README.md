@@ -11,7 +11,7 @@ Make sure [jj](https://github.com/jj-vcs/jj) and [lazyjj](https://github.com/Cre
 ### Using `ya pkg`
 
 ```sh
- ya pkg add jkellz-dev/lazyjj
+ ya pkg add Good1Cheese/lazyjj
 ```
 
 ### Manual

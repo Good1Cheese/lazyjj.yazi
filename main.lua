@@ -27,7 +27,7 @@ return {
 		end
 
 		ya.dbg("launching lazyjj")
-		ya.hide()
+		ui.hide()
 
 		local success, err_code, code = os.execute("lazyjj")
 		ya.dbg(
